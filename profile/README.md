@@ -19,6 +19,7 @@ The goal of this document is to explain how the two repos fit together without r
 3. The orchestration layer decides what work needs to be done and calls the MCP backend.
 4. [`DATA-SCIENCE-MCP`](https://github.com/AI-DataScientist-UBC/DATA-SCIENCE-MCP) executes the requested data-science tools and returns structured results.
 5. The interface turns those results into chat responses, tables, charts, and prediction explanations for the user.
+6. [`The synthetic data file we used for development and testing`](https://github.com/AI-DataScientist-UBC/AI-DataScientist-Interface/Synthetic.csv)
 
 At a high level, the interface is responsible for experience and coordination, while the MCP repo is responsible for reliable execution of the underlying analytics and modeling tasks.
 
