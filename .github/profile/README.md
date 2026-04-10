@@ -1,2 +1,2 @@
 # AI-DataScientist-UBC
-Official GitHub profile repository for AI-DataScientist-UBC.
+Welcome to the AI-DataScientist-UBC GitHub organization.
